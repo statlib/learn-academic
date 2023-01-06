@@ -1,2 +1,2 @@
-# learn-scaffold
-Scaffold for learn-* repo
+# Theses
+Interesting theses for review
