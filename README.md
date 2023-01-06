@@ -1,2 +1,2 @@
-# Resources for learning (mainly stats)
+# Academic talks/theses (mainly stats)
 Materials from interesting academic theses and talks.
