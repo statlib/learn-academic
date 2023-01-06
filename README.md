@@ -1,2 +1,1 @@
-# Theses
-Interesting theses for review
+Intersting learning material
