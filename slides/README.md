@@ -9,6 +9,7 @@
 * [Ben Van Calster](https://www.slideshare.net/BenVanCalster/presentations)
 * [Maarten van Smeden](https://www.slideshare.net/MaartenvanSmeden/presentations)
 * [Laure Wynants](https://www.slideshare.net/LaureWynants/presentations)
+* [Philosophy of Statistics - mix](https://pt.slideshare.net/jemille6/presentations)
 
 # Others
 * Biecek
